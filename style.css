@@ -1,0 +1,44 @@
+/* .boxmenu{
+    height: 5vw;
+    width: 100vw;
+    background-color: aliceblue;
+    position: fixed;
+    top: 40px;
+    left: 40px;
+} */
+
+header a{
+    color: red;
+    font-size: larger;
+}
+div a{
+    text-decoration: none;
+}
+header{ 
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+    position: fixed;
+   
+}
+ .boxmenu{
+    background-color: white;
+ }
+main img{
+    margin-top: auto;
+ }
+ .header{
+    position: fixed; 
+    top: 0;
+    left: 0;
+    background-color: rgb(173, 90, 111);
+    width: 100vw;
+    padding: 20px;
+ }
+.hayg{
+    height: 40px;
+    width: 40px;
+}
+h1{background-color: aqua;
+margin: 50px;
+}
